@@ -1,3 +1,5 @@
+https://www.reddit.com/r/ClaudeAI/comments/1oivjvm/claude_code_is_a_beast_tips_from_6_months_of/
+
 # Claude Code는 진짜 괴물입니다 – 6개월간 ‘빡세게’ 써보고 올리는 꿀팁
 
 > **게으른 동료들을 위한 꿀팁:** 이 글은 분량이 거의 책 한 권 수준입니다. [Natural Reader](https://www.naturalreaders.com/) 같은 AI TTS 서비스에 던져놓고 귀로 들으시는 걸 추천합니다. :)
